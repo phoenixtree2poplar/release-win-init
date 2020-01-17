@@ -5,7 +5,7 @@
 #### Windows激活-->重启
 #### 开启备份
 # software:
-#### 搜狗输入法(智慧版) 【官网：https://pinyin.sogou.com/zhihui/
+#### 搜狗输入法(智慧版)【[官网](https://pinyin.sogou.com/zhihui/)】
 #### 网易云音乐(文件位置修改) 【官网：https://music.163.com/#
 #### 微信(文件位置修改)
 #### office+激活+table插件-->重启
