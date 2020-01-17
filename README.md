@@ -9,7 +9,8 @@
 #### 网易云音乐(文件位置修改)【[官网](https://music.163.com)】
 #### 微信(文件位置修改)【[官网](https://weixin.qq.com)】
 #### office+激活+table插件-->重启
-#### chrome，360急速浏览器(兼容ie)
+#### chrome【[官网](https://www.google.cn/intl/zh-CN/chrome)】
+#### 360急速浏览器(兼容ie)
 #### 图片:honeyview(查看),
 #### wox+everything(本地搜索)
 #### typora(markdown)
