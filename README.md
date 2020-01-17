@@ -13,7 +13,7 @@
 #### 360急速浏览器(兼容ie)【[官网](https://browser.360.cn/ee)】
 #### [honeyview](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/%E5%9B%BE%E7%89%87%E6%B5%8F%E8%A7%88%E5%99%A8)图片浏览器【[官网](https://honeyview.en.softonic.com/)】
 #### [wox+everything](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/everything文件搜索-wox软件搜索)本地搜索【[everything官网](https://everything.en.softonic.com/)】【[wox官网](http://www.wox.one/)】
-#### typora(markdown)
+#### [typora](https://www.typora.io/)(markdown编辑器)
 #### Potplayer(视频播放)
 #### 图片压缩工具,FSCapture(截图工具)
 #### cleanCC(软件卸载工具-清理注册表)，
