@@ -1,5 +1,5 @@
 # Windows安装步骤：
-#### Windows官网最新镜像制作-->安装
+#### Windows官网最新镜像制作-->安装      [国内镜像](https://msdn.itellyou.cn)
 #### 系统文件夹地址更改
 #### 关闭Windows保护-->关闭Windows更新-->永久关闭Windows保护
 #### Windows激活-->重启
