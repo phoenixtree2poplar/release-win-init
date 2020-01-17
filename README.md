@@ -11,7 +11,7 @@
 #### office+激活+table插件-->重启
 #### chrome【[官网](https://www.google.cn/intl/zh-CN/chrome)】
 #### 360急速浏览器(兼容ie)【[官网](https://browser.360.cn/ee)】
-#### 图片:honeyview【[官网](https://honeyview.en.softonic.com/)】
+#### [honeyview](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/%E5%9B%BE%E7%89%87%E6%B5%8F%E8%A7%88%E5%99%A8)图片浏览器【[官网](https://honeyview.en.softonic.com/)】
 #### wox+everything(本地搜索)
 #### typora(markdown)
 #### Potplayer(视频播放)
