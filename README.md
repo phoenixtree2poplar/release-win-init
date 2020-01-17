@@ -1,7 +1,7 @@
 # Windows安装步骤：
 #### [Windows官网](https://www.microsoft.com/zh-cn/software-download/windows10)最新镜像制作-->安装 [国内镜像](https://msdn.itellyou.cn)
 #### 系统文件夹地址更改
-#### [关闭Windows保护](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/关闭保护)-->关闭Windows更新-->永久关闭Windows保护 【官网：http://www.carrotchou.blog/27785.html
+#### [关闭Windows保护](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/关闭保护)-->关闭Windows更新-->永久关闭Windows保护【[官网](http://www.carrotchou.blog/27785.html)】
 #### Windows激活-->重启
 #### 开启备份
 # software:
