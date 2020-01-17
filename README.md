@@ -10,8 +10,8 @@
 #### 微信(文件位置修改)【[官网](https://weixin.qq.com)】
 #### office+激活+table插件-->重启
 #### chrome【[官网](https://www.google.cn/intl/zh-CN/chrome)】
-#### 360急速浏览器(兼容ie)
-#### 图片:honeyview(查看),
+#### 360急速浏览器(兼容ie)【[官网](https://browser.360.cn/ee)】
+#### 图片:honeyview【[官网](https://honeyview.en.softonic.com/)】
 #### wox+everything(本地搜索)
 #### typora(markdown)
 #### Potplayer(视频播放)
