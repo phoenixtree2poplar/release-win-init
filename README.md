@@ -41,4 +41,4 @@
 #### nginx+redis下载
 ## github  ssh配置
 ## 装一个win10虚拟机(安装未知软件)
-teset
+tesetsadfsdfsadf
