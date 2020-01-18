@@ -17,8 +17,8 @@
 #### [Potplayer](http://potplayer.org/)(视频播放)
 #### [图片压缩工具](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/jpg)
 #### [FSCapture](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/FSCapture)(截图工具)
-#### ccleaner(软件卸载工具-清理注册表)【[官网](https://www.ccleaner.com/)】
-#### 软件下载工具(绿色清爽版)
+#### [ccleaner](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/ccleaner)(软件卸载工具-清理注册表)【[官网](https://www.ccleaner.com/)】
+#### [软件下载工具](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/software-download)(绿色清爽版)
 #### Thunder迅雷下载(文件位置修改)
 #### winrar解压工具(去广告版)
 #### v2ray(代理)
