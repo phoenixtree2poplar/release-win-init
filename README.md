@@ -8,7 +8,7 @@
 #### [搜狗输入法](https://pinyin.sogou.com/zhihui)(智慧版)
 #### [网易云音乐](https://music.163.com)(文件位置修改)
 #### [微信](https://weixin.qq.com)(文件位置修改)
-#### office+激活+table插件-->重启
+#### office+激活+[table插件](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/office%E6%8F%92%E4%BB%B6)-->重启
 #### [chrome](https://www.google.cn/intl/zh-CN/chrome)
 #### [360急速浏览器](https://browser.360.cn/ee)
 #### [honeyview](https://github.com/phoenixtree2poplar/release-tools-v1/releases/tag/%E5%9B%BE%E7%89%87%E6%B5%8F%E8%A7%88%E5%99%A8)图片浏览器【[官网](https://honeyview.en.softonic.com/)】
