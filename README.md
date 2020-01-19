@@ -3,7 +3,7 @@
 #### 系统文件夹地址更改
 #### 关闭Windows保护
 #### [关闭Win更新](https://phoenixtree2poplar.github.io/2017/05/23/window10-uninstall-update/)
-#### [永久关闭Windows保护]((https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/关闭保护))【[官网](http://www.carrotchou.blog/27785.html)】
+#### [永久关闭Windows保护](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/关闭保护)【[官网](http://www.carrotchou.blog/27785.html)】
 #### Windows激活-->重启
 #### 开启备份
 # software:
