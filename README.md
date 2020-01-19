@@ -34,12 +34,13 @@
 # dev:
 #### path:jdk,[git](https://git-scm.com/)+[TortoiseGit](https://tortoisegit.org/download/)乌龟,[maven](https://archive.apache.org/dist/maven/maven-3/)(仓库位置修改),[node](http://nodejs.cn/) +npm(仓库位置修改+换阿里镜像)+hexo
 #### IDE:idea(文件位置修改),webstorm
-#### DB:[mysql](https://dev.mysql.com/downloads/mysql),navicat
+#### 数据库[mysql7](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/mysql7)【[官网](https://dev.mysql.com/downloads/mysql)】
+#### navicat数据库连接工具
 #### [notepad++](https://notepad-plus.en.softonic.com/)
 #### xhell
 #### [postman](https://www.getpostman.com/)
 #### [docker](https://hub.docker.com/editions/community/docker-ce-desktop-windows)
-#### [nginx](http://nginx.org/en/download.html)
-#### [redis](https://github.com/microsoftarchive/redis/releases)
+#### [nginx](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/1.16.1)【[官网](http://nginx.org/en/download.html)】
+#### [redis](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/win-redis)【[官网](https://github.com/microsoftarchive/redis/releases)】
 # github  ssh配置
 # 装一个win10虚拟机(安装未知软件)
