@@ -46,3 +46,4 @@
 10. [redis](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/win-redis)【[官网](https://github.com/microsoftarchive/redis/releases)】
 ### github  ssh配置
 ### 装一个win10虚拟机(安装未知软件)
+##### [个人喜好配置](https://github.com/phoenixtree2poplar/release-config-me) 
